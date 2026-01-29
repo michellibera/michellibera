@@ -2,6 +2,11 @@
 
 ## Current Projects
 - [Szafometr](szafometr.vercel.app) - app that personalizes clothing recommendations from weather data by learning your individual thermal comfort in CLO units.
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/michel-libera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michel-libera" height="30" width="40" /></a>
+</p>
 <!--
 **michellibera/michellibera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
