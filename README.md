@@ -12,6 +12,9 @@
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
+## Blog
+- 📝 [michellibera.com](michellibera.com)
+  
 ## Connect
 <p align="left">
 <a href="https://linkedin.com/in/michel-libera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michel-libera" height="30" width="40" /></a>
