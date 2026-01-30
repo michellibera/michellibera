@@ -1,8 +1,7 @@
 ## Hi, I'm Michel 👋
 
 ## About me
-🚀 FullStack Developer | 📍 working remotely | 🌱 I’m currently learning: ![System Dynamics](https://img.shields.io/badge/System_Dynamics-FF6B6B?style=for-the-badge&logo=&logoColor=white) ![Complexity Science](https://img.shields.io/badge/Complexity_Science-9B59B6?style=for-the-badge&logo=&logoColor=white)
-
+🚀 FullStack Developer | 📍 working remotely | 🌱 I’m currently learning: System dynamics, Complexity Science
 ## Current Projects
 - 📰 [Obiektyw (Work In Progress)](about:blank) - app that compares how different Polish media outlets report on the same events and analyzes differences in narrative, fact selection, and language. It highlights common manipulation techniques to make news consumption more transparent.
 - ⛅🌡️ [Szafometr](szafometr.vercel.app) - app that personalizes clothing recommendations from weather data by learning your individual thermal comfort in CLO units.
