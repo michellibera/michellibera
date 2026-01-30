@@ -40,6 +40,7 @@
 📝 [michellibera.com](michellibera.com)
   
 ## Connect
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin&theme=dark&perline=15)](https://linkedin.com/in/michel-libera)
 <p align="left">
 <a href="https://linkedin.com/in/michel-libera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michel-libera" height="30" width="40" /></a>
 </p>
