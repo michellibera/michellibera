@@ -3,7 +3,7 @@
 ## About me
 🚀 FullStack Software Developer\
 📍 Working remotely\
-🌱 I’m currently learning:\
+🌱 I’m currently learning:
    - **System Dynamics**
    - **Complexity Science**
 ## Current Projects
