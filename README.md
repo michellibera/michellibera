@@ -8,17 +8,26 @@
 - ⛅🌡️ [Szafometr](szafometr.vercel.app) - app that personalizes clothing recommendations from weather data by learning your individual thermal comfort in CLO units.
 
 ## My Skill Set
-
+<table><tr><td valign="top" width="33%">
+  
 #### Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=for-the-badge&logo=csharp&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+  </td><td valign="top" width="33%">
+    
 #### DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+
+</td><td valign="top" width="33%">
+  
 #### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+
+</td></tr></table>  
 
 ## Blog
 📝 [michellibera.com](michellibera.com)
