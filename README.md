@@ -19,6 +19,7 @@
     
 ### DevOps
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+[![Azure](https://skillicons.dev/icons?i=azure&theme=dark&perline=15)](https://skillicons.dev)
 
 </td><td valign="top" width="33%">
   
