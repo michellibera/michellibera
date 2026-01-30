@@ -1,7 +1,7 @@
 ## Hi, I'm Michel 👋
 
 ## About me
-🚀 FullStack Developer | 📍 working remotely | 🌱 I’m currently learning: System dynamics
+🚀 FullStack Developer | 📍 working remotely | 🌱 I’m currently learning: ![System Dynamics](https://img.shields.io/badge/System_Dynamics-FF6B6B?style=for-the-badge&logo=&logoColor=white) ![Complexity Science](https://img.shields.io/badge/Complexity_Science-9B59B6?style=for-the-badge&logo=&logoColor=white)
 
 ## Current Projects
 - 📰 [Obiektyw (Work In Progress)](about:blank) - app that compares how different Polish media outlets report on the same events and analyzes differences in narrative, fact selection, and language. It highlights common manipulation techniques to make news consumption more transparent.
@@ -26,7 +26,6 @@
 ![Azure DevOps](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azuredevops&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Design Patterns](https://img.shields.io/badge/Design_Patterns-5C2D91?style=for-the-badge&logo=&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=&logoColor=white)
 
 </td><td valign="top" width="25%">
