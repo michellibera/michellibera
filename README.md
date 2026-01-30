@@ -1,4 +1,4 @@
-## Hi 👋
+## Hi, I'm Michel 👋
 
 ## Current Projects
 - 📰 [Obiektyw (Work In Progress)](about:blank) - app that compares how different Polish media outlets report on the same events and analyzes differences in narrative, fact selection, and language. It highlights common manipulation techniques to make news consumption more transparent.
