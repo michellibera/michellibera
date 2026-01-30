@@ -11,7 +11,9 @@
 - ⛅🌡️ [Szafometr](szafometr.vercel.app) - app that personalizes clothing recommendations from weather data by learning your individual thermal comfort in CLO units.
 
 ## My Skill Set
-<table><tr><td valign="top" width="25%">
+<table>
+<tr>
+<td valign="top" width="50%">
   
 ### Backend
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -21,7 +23,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-  </td><td valign="top" width="25%">
+  </td><td valign="top" width="50%">
     
 ### DevOps & Architecture
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
@@ -31,7 +33,10 @@
 ![Azure AI Foundry](https://img.shields.io/badge/Azure_AI_Foundry-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![System Design](https://img.shields.io/badge/System_Design-FF6B6B?style=for-the-badge&logo=&logoColor=white)
 
-</td><td valign="top" width="25%">
+</td>
+</tr>
+<tr>
+<td valign="top" width="50%">
   
 ### Frontend
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -40,7 +45,7 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-</td><td valign="top" width="25%">
+</td><td valign="top" width="50%">
 
 ### Cybersecurity
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
@@ -49,7 +54,9 @@
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![OSINT](https://img.shields.io/badge/OSINT-00ADD8?style=for-the-badge&logo=&logoColor=white)
 
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 ## Blog
 📝 [michellibera.com](michellibera.com)
