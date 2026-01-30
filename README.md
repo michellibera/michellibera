@@ -18,7 +18,7 @@
   </td><td valign="top" width="33%">
     
 ### DevOps
-![Azure](https://skillicons.dev/icons?i=azure&theme=dark&perline=15)](https://skillicons.dev)
+![Azure](https://skillicons.dev/icons?i=azure&theme=dark&perline=15)
 
 </td><td valign="top" width="33%">
   
