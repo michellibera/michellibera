@@ -1,7 +1,7 @@
 ## Hi, I'm Michel 👋
 
 ## About me
-🚀 FullStack Developer
+🚀 FullStack Developer | 📍 working remotely
 
 ## Current Projects
 - 📰 [Obiektyw (Work In Progress)](about:blank) - app that compares how different Polish media outlets report on the same events and analyzes differences in narrative, fact selection, and language. It highlights common manipulation techniques to make news consumption more transparent.
@@ -23,6 +23,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/michel-libera" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="michel-libera" height="30" width="40" /></a>
 </p>
+
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
+</div>  
 
 <!--
 **michellibera/michellibera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
