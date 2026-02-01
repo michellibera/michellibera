@@ -6,6 +6,7 @@
 - 🌱 I’m currently learning:
    - **System Dynamics**
    - **Complexity Science**
+   - **OSINT**
 ## Current Projects
 - 📰 [Obiektyw (Work In Progress)](about:blank) - app that compares how different Polish media outlets report on the same events and analyzes differences in narrative, fact selection, and language. It highlights common manipulation techniques to make news consumption more transparent.
 - ⛅🌡️ [Szafometr](szafometr.vercel.app) - app that personalizes clothing recommendations from weather data by learning your individual thermal comfort in CLO units.
@@ -52,7 +53,6 @@
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![OWASP](https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white)
 ![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![OSINT](https://img.shields.io/badge/OSINT-00ADD8?style=for-the-badge&logo=&logoColor=white)
 
 </td>
 </tr>
