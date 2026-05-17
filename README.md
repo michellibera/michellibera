@@ -8,7 +8,7 @@
    - **Complexity Science**
    - **OSINT**
 ## Current Projects
-- 🚪🚪🚪 [BestDecision](best-decision-kappa.vercel.app) - Multi-criteria decision support web application based on Analytic Hierarchy Process (AHP) algorithm.
+- 🚪🚪🚪 [BestDecision](https://best-decision-kappa.vercel.app/) - Multi-criteria decision support web application based on Analytic Hierarchy Process (AHP) algorithm.
 - ⏰🗺️ Temporal Tourism Foundation(Work In Progress) - A collaborative archive of geolocated historical photography. Documenting how our cities, landscapes, and landmarks have transformed across decades.
 - 📰 [Obiektyw](obiektyw.vercel.app) - app that compares how different Polish media outlets report on the same events and analyzes differences in narrative, fact selection, and language. It highlights common manipulation techniques to make news consumption more transparent.
 - ⛅🌡️ [Szafometr](szafometr.vercel.app) - app that personalizes clothing recommendations from weather data by learning your individual thermal comfort in CLO units.
