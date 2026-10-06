@@ -8,8 +8,8 @@
    - **Complexity Science**
    - **OSINT**
 ## Projects
-- [ProtoBot](https://github.com/michellibera/ProtoBot) 
-- [Rekon](https://github.com/michellibera/Rekon)
+- [ProtoBot](https://github.com/michellibera/ProtoBot) - 24/7 bot based on claude code with Telegram and Eleven Labs integration for messaging and voice.
+- [Rekon](https://github.com/michellibera/Rekon) - TUI (Terminal User Interface) for displaying semantic map of repo alongside code and file structure. 
 - 🚪🚪🚪 [BestDecision](https://best-decision-kappa.vercel.app/) - Multi-criteria decision support web application based on Analytic Hierarchy Process (AHP) algorithm.
 - ⏰🗺️ Temporal Tourism Foundation(Work In Progress) - A collaborative archive of geolocated historical photography. Documenting how our cities, landscapes, and landmarks have transformed across decades.
 - 📰 [Obiektyw](obiektyw.vercel.app) - app that compares how different Polish media outlets report on the same events and analyzes differences in narrative, fact selection, and language. It highlights common manipulation techniques to make news consumption more transparent.
