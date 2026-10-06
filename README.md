@@ -8,7 +8,7 @@
    - **Complexity Science**
    - **OSINT**
 ## Projects
-- [ProtoBot](https://github.com/michellibera/ProtoBot) - 24/7 bot based on claude code with Telegram and Eleven Labs integration for messaging and voice.
+- [ProtoBot](https://github.com/michellibera/ProtoBot) - simple 24/7 bot with Telegram and Eleven Labs integration for messaging and voice.
 - [Rekon](https://github.com/michellibera/Rekon) - TUI (Terminal User Interface) for displaying semantic map of repo alongside code and file structure. 
 - 🚪🚪🚪 [BestDecision](https://best-decision-kappa.vercel.app/) - Multi-criteria decision support web application based on Analytic Hierarchy Process (AHP) algorithm.
 - ⏰🗺️ Temporal Tourism Foundation(Work In Progress) - A collaborative archive of geolocated historical photography. Documenting how our cities, landscapes, and landmarks have transformed across decades.
