@@ -7,7 +7,9 @@
    - **System Dynamics**
    - **Complexity Science**
    - **OSINT**
-## Current Projects
+## Projects
+- [ProtoBot](https://github.com/michellibera/ProtoBot) 
+- [Rekon](https://github.com/michellibera/Rekon)
 - 🚪🚪🚪 [BestDecision](https://best-decision-kappa.vercel.app/) - Multi-criteria decision support web application based on Analytic Hierarchy Process (AHP) algorithm.
 - ⏰🗺️ Temporal Tourism Foundation(Work In Progress) - A collaborative archive of geolocated historical photography. Documenting how our cities, landscapes, and landmarks have transformed across decades.
 - 📰 [Obiektyw](obiektyw.vercel.app) - app that compares how different Polish media outlets report on the same events and analyzes differences in narrative, fact selection, and language. It highlights common manipulation techniques to make news consumption more transparent.
