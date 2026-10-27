@@ -9,7 +9,7 @@
    - **OSINT**
 ## Projects
 - [Immersio](https://github.com/michellibera/immersio) - A Claude Code plugin that keeps terminal answers short and, on /viz, draws their structure as a one-screen visual shown live on a local page.
-- [ProtoBot](https://github.com/michellibera/ProtoBot) - simple 24/7 bot with Telegram and Eleven Labs integration for messaging and voice.
+- [ProtoBot](https://github.com/michellibera/ProtoBot) - simple 24/7 bot working on web UI and Telegram, equipped with Eleven Labs integration for messaging and voice.
 - [Rekon](https://github.com/michellibera/Rekon) - TUI (Terminal User Interface) for displaying semantic map of repo alongside code and file structure. 
 - 🚪🚪🚪 [BestDecision](https://best-decision-kappa.vercel.app/) - Multi-criteria decision support web application based on Analytic Hierarchy Process (AHP) algorithm.
 - ⏰🗺️ Temporal Tourism Foundation(Work In Progress) - A collaborative archive of geolocated historical photography. Documenting how our cities, landscapes, and landmarks have transformed across decades.
